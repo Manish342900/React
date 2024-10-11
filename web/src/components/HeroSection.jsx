@@ -8,7 +8,7 @@ export default function HeroSection() {
     <div className='hero-container'>
       <video src="/videos/video-2.mp4" autoPlay loop muted></video>
       <h1>Adventure Awaits</h1>
-      <p>What are you Waiting</p>
+      <p>What are you Waiting for</p>
       <div className='hero-btns'>
         <Button buttonStyle='btn--outline' buttonSize='btn--large'>
             GET STARTED
